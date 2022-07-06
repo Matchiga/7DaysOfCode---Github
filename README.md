@@ -2,7 +2,7 @@
 
 <h3> Dia 1 </h3>
 
->Criar Repositório pelo Github
+>Criar Repositório pelo Github.
 
 <h3> Dia 2 </h3>
 
@@ -10,4 +10,8 @@
 
 <h3> Dia 3 </h3>
 
->Não dísponivel.
+>Adicionar reporsitório do Github, na máquina local a partir do Visual Studio Code.
+
+<h3> Dia 4 </h3>
+
+>Não Adicionado ainda.
