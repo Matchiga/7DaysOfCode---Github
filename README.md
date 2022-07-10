@@ -26,4 +26,4 @@
 
 <h3> Dia 7 </h3>
 
->Não disponível.
+>Adicionar um projeto ao Github Pages.
