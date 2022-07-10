@@ -14,4 +14,16 @@
 
 <h3> Dia 4 </h3>
 
->Não Adicionado ainda.
+>Alterar imagens no código HTML para não ficar repetitivo e atualiza no Github.
+
+<h3> Dia 5 </h3>
+
+>Reverter um commit para remover o erro do código.
+
+<h3> Dia 6 </h3>
+
+>Entender como funciona quando o código entra em conflito por causa de um merge.
+
+<h3> Dia 7 </h3>
+
+>Não disponível.
